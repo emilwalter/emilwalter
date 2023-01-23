@@ -4,7 +4,7 @@
 </p>
 
 
-- 🔭 I’m currently working at [FossID](https://fossid.com) in the Customer Success Team
+- 🔭 I’m currently working at [FossID](https://fossid.com) as a Customer Success Engineer
 - 🔭 I’m currently CEO at [Walter Media](https://waltermedia.se)
 - 🌱 I’m currently learning more services on AWS
 - 💬 Ask me about **NextJS**
